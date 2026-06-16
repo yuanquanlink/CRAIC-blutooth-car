@@ -1,2 +1,3 @@
-# CRAIC-blutooth-car
-蓝牙遥控全地形小车（CRAIC比赛）
+# 蓝牙遥控全地形小车
+
+CRAIC比赛参赛作品。基于 Arduino，支持蓝牙遥控、机械臂控制、OLED显示和二维码扫描。
